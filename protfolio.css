@@ -45,7 +45,7 @@ body {
 }
 
 #boxParent {
-    background-color: rgb(255, 248, 235);
+    background-color: rgb(252, 252, 252);
 
 
 }
@@ -72,7 +72,7 @@ a {
 }
 
 #contactPage {
-    background-color: rgb(255, 248, 235);
+    background-color: rgb(252, 252, 252);
 }
 
 #contactPage>h4 {
@@ -80,13 +80,12 @@ a {
 }
 
 #textaREA {
-    width: 90%;
+    width: 70%;
 }
 
 #navbar {
     box-shadow: 6px 5px 10px rgb(192, 185, 185);
 }
-
 
 @media only screen and (max-width:650px) {
     .box {
